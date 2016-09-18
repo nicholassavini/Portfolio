@@ -1,6 +1,6 @@
-* {
+ /*{
     border: 1px solid red !important;
-}
+}*/
 body {
     font-family: "Lato", sans-serif;
     color: #2d3c49;
@@ -17,4 +17,8 @@ body {
 }
 .title-logo {
     margin-top:20px;
+}
+
+hr {
+    border: 2px solid #7d97ad;
 }
